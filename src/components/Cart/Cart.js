@@ -13,7 +13,7 @@ const Cart = props => {
 
     const cartItemRemoveHandler = id => {};
 
-    const cartItemAddHandler = item = {};
+    const cartItemAddHandler = item => {};
 
     const cartItems = (
         <ul className={classes['cart-items']}>
